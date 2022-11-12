@@ -13,11 +13,11 @@ jobs:
       - name: git-checkout
         uses: actions/checkout@v2
 
-      - name: Build
-        run: yarn build # The build command of your project
-        
       - name: Install all dependencies
         run: yarn install
+        
+      - name: Build
+        run: yarn build # The build command of your project
 
       - name: Push
         uses: s0/git-publish-subdir-action@develop
