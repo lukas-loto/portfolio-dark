@@ -18,7 +18,7 @@
 
 Meu portfólio criado com o objetivo de mostrar meus projetos. 
 
-- Website: [evander.vercel.app](https://evander.vercel.app/)
+- Website: [lukasdomingos.vercel.app](https://lukasdomingos.vercel.app/)
 
 ## 🚀 Tecnologias
 
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
- <a href="https://evander.vercel.app" alt="Portfolio">
+ <a href="https://lukasdomingos.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.evanderinacio.com/"/>
  </a>
 

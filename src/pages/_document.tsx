@@ -58,7 +58,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
 
-          <link rel="canonical" href="https://evander.vercel.app" />
+          <link rel="canonical" href="https://lukasdomingos.vercel.app" />
           <meta name="theme-color" content="#00d9ff" />
           <meta name="author" content="Lukas Domingos" />
           <meta name="creator" content="Lukas Domingos" />
@@ -76,7 +76,7 @@ export default class MyDocument extends Document {
 
           <meta property="og:image" content="/ogimage.png" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://evander.vercel.app" />
+          <meta property="og:url" content="https://lukasdomingos.vercel.app" />
           <meta name="twitter:image" content="/ogimage.png" />
 
           <link rel="icon" href="/icon.svg" />

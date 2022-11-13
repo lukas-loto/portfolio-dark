@@ -7,7 +7,7 @@ const projects = [
     type: "Website",
     icon: "/projects/portfolio/home.webp",
     github: 'https://github.com/EvanderInacio/Portfolio',
-    web: 'https://evander.vercel.app/',
+    web: 'https://lukasdomingos.vercel.app/',
     description: 'Meu portfólio criado com o objetivo de mostrar meus projetos ao longo da minha carreira.',
     tags: [
       {name: "Next JS", icon: '/skills/next-js.svg' },
