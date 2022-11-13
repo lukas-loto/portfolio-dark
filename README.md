@@ -55,7 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/lukas-loto">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
+        <img src="https://avatars.githubusercontent.com/u/98624022?s=400&u=aa736d13396eb7ae4fbf42ae223d197146f7c9a7&v=4" width="100px;" /><br>
         <sub>
           <b>Lukas Domingos</b>
         </sub>
@@ -66,4 +66,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Lukas Domingos</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lukas-domingos/">Lukas Domingos</a> ☕</h3>
