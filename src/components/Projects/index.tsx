@@ -26,8 +26,8 @@ export function Projects() {
       <ProjectsContainer>
         {projects.map(project => {
           return (
-            <Link href={`/project/${project.url}`} key={project.id}>
-              <a>
+            <Link href={`${project.url}`} key={project.id}>
+              <a target="_blank" rel="noopener noreferrer">
                 <ProjectsContent>
                   <img src={project.img} alt={project.title} />
                   <div className="title">

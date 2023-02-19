@@ -6,7 +6,7 @@ import { FooterContainer } from './styles'
 export function Footer() {
   return (
     <FooterContainer>
-      <h4> &copy; 2022 Lukas Domingos</h4>
+      <h4> &copy; 2023 Lukas Domingos</h4>
       <div className="links">
         <Link href={'https://github.com/lukas-loto/'}>
           <a target="_blank" aria-label="Link to Github">

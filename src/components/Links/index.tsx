@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Icons } from './styles'
-import { FiGithub, FiLinkedin, FiInstagram } from 'react-icons/fi'
+import { FiGithub, FiLinkedin } from 'react-icons/fi'
 import { FaWhatsapp } from 'react-icons/fa'
 
 export function Links() {
@@ -15,11 +15,6 @@ export function Links() {
         <Link href={'https://www.linkedin.com/in/lukas-domingos/'}>
           <a target="_blank" aria-label="Link to Linkedin">
             <FiLinkedin />
-          </a>
-        </Link>
-        <Link href={'https://www.instagram.com/lukasdomingoss/'}>
-          <a target="_blank" aria-label="Link to Instagram">
-            <FiInstagram />
           </a>
         </Link>
         <Link href={'https://api.whatsapp.com/send?phone=5521998497373'}>

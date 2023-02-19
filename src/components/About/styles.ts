@@ -7,7 +7,6 @@ export const AboutContainer = styled.section`
   align-items: center;
 
   .AboutImg {
-    width: 200px;
     display: flex;
     justify-self: center;
     align-self: center;
@@ -18,7 +17,7 @@ export const AboutContainer = styled.section`
     margin-bottom: 2rem;
 
     &:hover {
-      transform: scale(1.1);
+      transform: scale(1.03);
     }
   }
 
