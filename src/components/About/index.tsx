@@ -36,7 +36,7 @@ export function About() {
             I currently work at Webera as a Full Stack Developer with a focus on WordPress and I am a leader at Students for Liberty Brazil.
             </p>
           </div>
-          <a href="/pdf/Currículo EN.pdf" download>
+          <a href="/pdf/CURRICULO EN.pdf" download>
             <ButtonPrimary>
               <b>Download CV</b> <DownloadSimple weight="bold" />
             </ButtonPrimary>
