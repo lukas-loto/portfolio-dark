@@ -11,6 +11,7 @@ export const AllContainer = styled.div`
   height: 100%;
   padding-bottom: 5rem;
   max-width: 700px;
+  padding-top: 50px;
 
   h4 {
     margin-top: 1rem;

@@ -16,10 +16,10 @@ export function About() {
       <AboutContainer>
         <div className="AboutImg">
           <img
-            className="AboutImg"
+            className="AboutImg image-about"
             src="/about.png"
             alt="Imagem de perfil Lukas"
-            style={{width: "400px"}}
+            style={{maxWidth: "100%"}}
           />
         </div>
 

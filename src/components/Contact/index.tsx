@@ -23,15 +23,6 @@ export function Contact() {
 
         <ContactContent>
           <div className="contact-content">
-            <h4><WhatsappLogo size={22}  color="#00fffb" /> WhatsApp </h4>
-            <Link href="https://api.whatsapp.com/send?phone=5521998497373">
-              <a target="_blank">
-                <span>+55 21 998497373</span>
-              </a>
-            </Link>
-          </div>
-
-          <div className="contact-content">
             <h4> <TelegramLogo size={22} color="#00fffb" /> Email </h4>
             <Link href="mailto:lukas-domingos1@hotmail.com">
               <a target="_blank">

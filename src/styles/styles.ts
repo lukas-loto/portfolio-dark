@@ -136,19 +136,10 @@ export const ButtonSecondary = styled.button`
     position: relative;
     transition: all 0.3s;
     
-    
     &::after {
       pointer-events: none;
       content: '';
       position: absolute;
-    // top: 120%;
-    // left: 0;
-    // height: 100%;
-    // width: 100%;
-    // background-color: var(--first-color);
-    // filter: blur(2em);
-    // opacity: 0.7;
-    // transform: perspective(1.5em) rotateX(35deg) scale(1, 0.6);
   }
   
   &:hover {

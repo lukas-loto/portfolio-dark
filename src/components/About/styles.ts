@@ -40,7 +40,7 @@ export const AboutContainer = styled.section`
     grid-template-columns: repeat(2, 1fr);
 
     .AboutImg {
-      width: 300px;
+      width: 400px;
     }
 
     .aboutContent {

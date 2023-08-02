@@ -1,7 +1,7 @@
 const projects = [
   {
     id: 1,
-    url: 'https://portfolio.mosalito.com/',
+    url: 'https://portfolio.jorlans.com/',
     img: '/projects/portfolio/portfolio.svg',
     title: 'Portfolio White',
     type: "Website",
@@ -9,7 +9,7 @@ const projects = [
   },
   {
     id: 2,
-    url: 'https://shop.mosalito.com/',
+    url: 'https://shop.jorlans.com/',
     img: '/projects/portfolio/1.svg',
     title: 'Shop',
     type: "Website",
@@ -32,16 +32,8 @@ const projects = [
     icon: "/projects/podcastr/icon.svg",
   },
   {
-    id: 5,
-    url: 'https://beerwiththeboss.mosalito.com/',
-    img: '/projects/portfolio/4.svg',
-    title: 'Beer with the Boss',
-    type: "Website",
-    icon: "/projects/dsmeta/dsmeta-icon.svg",
-  },
-  {
     id: 6,
-    url: 'https://projetos.mosalito.com/portfolio',
+    url: 'https://projetos.jorlans.com/portfolio',
     img: '/projects/portfolio/5.svg',
     title: 'Landing Page',
     type: "Page",
@@ -57,7 +49,7 @@ const projects = [
   },
   {
     id: 8,
-    url: 'https://projetos.mosalito.com/landing1/',
+    url: 'https://projetos.jorlans.com/landing1/',
     img: '/projects/portfolio/7.svg',
     title: 'Landing Page',
     type: "Page",
@@ -65,7 +57,7 @@ const projects = [
   },
   {
     id: 9,
-    url: 'https://projetos.mosalito.com/webera/',
+    url: 'https://projetos.jorlans.com/webera/',
     img: '/projects/portfolio/8.svg',
     title: 'Landing Page',
     type: "Page",
@@ -73,7 +65,7 @@ const projects = [
   },
   {
     id: 10,
-    url: 'https://webera.mosalito.com/',
+    url: 'https://webera.jorlans.com/',
     img: '/projects/portfolio/9.svg',
     title: 'Webera',
     type: "Website",
@@ -81,7 +73,7 @@ const projects = [
   },
   {
     id: 11,
-    url: 'https://projetos.mosalito.com/',
+    url: 'https://projetos.jorlans.com/',
     img: '/projects/portfolio/10.svg',
     title: 'Shop',
     type: "Website",
@@ -97,20 +89,12 @@ const projects = [
   },
   {
     id: 13,
-    url: 'https://projetos.mosalito.com/ilustracao4/',
+    url: 'https://projetos.jorlans.com/ilustracao4/',
     img: '/projects/portfolio/12.svg',
     title: 'Shop',
     type: "Website",
     icon: "/projects/github-blog/logo.svg",
   },
-  {
-    id: 14,
-    url: 'https://projetos.mosalito.com/ilustracao/',
-    img: '/projects/portfolio/13.svg',
-    title: 'Shop',
-    type: "Website",
-    icon: "/projects/github-blog/logo.svg",
-  }
 ]
 
 export default projects

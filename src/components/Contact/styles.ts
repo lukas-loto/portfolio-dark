@@ -17,11 +17,6 @@ export const ContactContent = styled.div`
     grid-template-columns: repeat(2, 1fr);
   }
 
-  @media (min-width: 994px) {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-  }
-
   .contact-content {
     border-radius: 10px;
     background-color: var(--border-color);
